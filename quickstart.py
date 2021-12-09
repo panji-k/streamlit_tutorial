@@ -1,3 +1,5 @@
+!pip install pandas scikit-learn matplotlib seaborn streamlit
+
 # Imports
 # -----------------------------------------------------------
 import streamlit as st
